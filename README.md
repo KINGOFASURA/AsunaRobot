@@ -10,9 +10,9 @@
 
 <p align="center">
     <a href="https://github.com/KINGOFASURA/CUTE_ROBOT"> <img src="https://img.shields.io/github/repo-size/KINGOFASURA/CUTE_ROBOT?color=fuchsia&logo=github&logoColor=red&style=for-the-badge" /></a>
-    <a href="https://github.com/KINGOFASURA/CUTE_ROBOT/commits/Sahil"> <img src="https://img.shields.io/github/last-commit/HuntingBots/AsunaRobot?color=indigo&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/KINGOFASURA/CUTE_ROBOT/commits/Sahil"> <img src="https://img.shields.io/github/last-commit/KINGOFASURA/CUTE_ROBOT?color=indigo&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/KINGOFASURA/CUTE_ROBOT/issues"> <img src="https://img.shields.io/github/issues/HuntingBots/AsunaRobot?color=green&logo=github&logoColor=yellow&style=for-the-badge" /></a>
-    <a href="https://github.com/HuntingBots/AsunaRobot/network/members"> <img src="https://img.shields.io/github/forks/HuntingBots/AsunaRobot?color=olive&logo=github&logoColor=maroon&style=for-the-badge" /></a>  
+    <a href="https://github.com/KINGOFASURA/CUTE_ROBOT/network/members"> <img src="https://img.shields.io/github/forks/KINGOFASURA/CUTE_ROBOT?color=olive&logo=github&logoColor=maroon&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=aqua&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 </p>
 
