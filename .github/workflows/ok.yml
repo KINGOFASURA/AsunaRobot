@@ -20,7 +20,7 @@ jobs:
 
           find: "AsunaRobot"
 
-          replace: "Bhai"
+          replace: "CUTE ROBOT"
 
       - name: Create Pull Request
 
